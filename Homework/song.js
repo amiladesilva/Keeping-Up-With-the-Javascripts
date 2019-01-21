@@ -1,3 +1,7 @@
+/*
+song.js - This is first homework assignment of the tutorial. This contains attributes of a song
+*/
+
 //Title of the song
 var title = "Fix you";
 
